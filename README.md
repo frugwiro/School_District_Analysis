@@ -37,6 +37,7 @@ Scores by School Size: Thomas High School is a medium sized school, that falls w
 Scores by School Type: Charter schools consistently performed better than District schools. Although, replacing the ninth-grade scores did not have an impact on the average or percentage of passing math and reading scores, the percentage of overall students passing dropped by 20% for District Schools.
 
 Summary
+
 By conducting the comparative analysis, four major changes are evident in the updated school district analysis after reading and math scores for ninth grade Thomas High School students were replaced with NaNs.
 
 1.Utilizing NaN is an effective way to capture inconsistencies in a dataset, without skewing the data by having to enter zeros in place of the inconsistency.
