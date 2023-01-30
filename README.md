@@ -40,6 +40,9 @@ Summary
 By conducting the comparative analysis, four major changes are evident in the updated school district analysis after reading and math scores for ninth grade Thomas High School students were replaced with NaNs.
 
 1.Utilizing NaN is an effective way to capture inconsistencies in a dataset, without skewing the data by having to enter zeros in place of the inconsistency.
+
 2.School spending ranges per student do not impact math and reading scores.
+
 3.School size has an impact on testing scores. The larger the school size, the lower the test scores and percentage of overall students passing.
+
 4.Charter Schools performance is stronger than those of District Schools, as they have higher testing scores and percentages of overall students passing.
